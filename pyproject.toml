@@ -1,0 +1,5 @@
+[project]
+name = "roundtable"
+version = "0.1.0"
+description = "Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface"
+requires-python = ">=3.10"
